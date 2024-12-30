@@ -1,0 +1,7 @@
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.csproj.AssemblyReference.cache
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.AssemblyInfoInputs.cache
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.AssemblyInfo.cs
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.csproj.CoreCompileInputs.cache
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zaynab\Downloads\api-echallenge\api-echallenge\obj\Debug\net6.0\api-echallenge.MvcApplicationPartsAssemblyInfo.cache
